@@ -1,0 +1,14 @@
+Add to your website a contact page and put it online.
+Create a file named contact.html. It needs a form with at least :
+Text
+Email
+Number
+Date
+Radio buttons
+Checkboxes
+Dropdown menu (Select)
+Large text box (Textarea)
+Make sure all three pages of your website look consistent and matching. Upload your site to . Run your HTML through an online to make sure the code is correct and semantic.
+(to make the last point, please upload contact.html file to attached link to check and verify your code)
+
+https://validator.w3.org/
